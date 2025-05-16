@@ -55,7 +55,7 @@ Run the detection and classification on an image:
 
 python detect_and_classify.py --image path/to/image.jpg
 
-##⚙️ Command-Line Options
+## ⚙️ Command-Line Options
 
 | Argument    | Description                                                     |
 | ----------- | --------------------------------------------------------------- |
