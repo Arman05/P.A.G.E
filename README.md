@@ -75,6 +75,17 @@ python detect_and_classify.py --image input.jpg --output result.jpg --conf 0.6
   * 🎥 Security: Use demographic detection for video surveillance
   * 📊 Business Intelligence: Generate real-time demographic statistics
 
+
+## 🙏 Acknowledgements
+
+ * [Faster R-CNN Paper](https://arxiv.org/abs/1506.01497)
+ * [COCO Dataset](https://cocodataset.org/#home)
+ * [PASCAL VOC Dataset](http://host.robots.ox.ac.uk/pascal/VOC/)
+ * [UTKFace Dataset](https://susanqq.github.io/UTKFace/)
+ * [FairFace Dataset]()
+
+
+
 ## 📄 License
 
   This project is licensed under the MIT License. See the LICENSE file for more details.
