@@ -82,7 +82,7 @@ python detect_and_classify.py --image input.jpg --output result.jpg --conf 0.6
  * [COCO Dataset](https://cocodataset.org/#home)
  * [PASCAL VOC Dataset](http://host.robots.ox.ac.uk/pascal/VOC/)
  * [UTKFace Dataset](https://susanqq.github.io/UTKFace/)
- * [FairFace Dataset]()
+ * [FairFace Dataset](https://github.com/joojs/fairface)
 
 
 
