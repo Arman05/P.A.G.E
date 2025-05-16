@@ -1,4 +1,4 @@
-# 👤 Person Detection and Demographic Classification with FRCNN
+# 👤 Person Detection and Gender, Age, and Ethnicity Classification System
 
 This project implements two fundamental computer vision tasks:
 
