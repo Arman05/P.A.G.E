@@ -48,3 +48,31 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+## 🖼️ Usage
+Run the detection and classification on an image:
+
+python detect_and_classify.py --image path/to/image.jpg
+
+##⚙️ Command-Line Options
+
+| Argument    | Description                                                     |
+| ----------- | --------------------------------------------------------------- |
+| `--image`   | Path to the input image                                         |
+| `--output`  | (Optional) Path to save the output image                        |
+| `--display` | Whether to display the image in a pop-up window (default: True) |
+| `--conf`    | Detection confidence threshold (default: `0.5`)                 |
+
+## Example
+python detect_and_classify.py --image input.jpg --output result.jpg --conf 0.6
+
+## 💼 Use Cases
+
+  🏪 Retail: Count and profile visitors for better service
+  🏨 Hospitality: Understand guest demographics for targeting
+  🏙️ Urban Planning: Analyze pedestrian trends at crossings or events
+  🎥 Security: Use demographic detection for video surveillance
+  📊 Business Intelligence: Generate real-time demographic statistics
+
+## 📄 License
+
+  This project is licensed under the MIT License. See the LICENSE file for more details.
