@@ -69,11 +69,11 @@ python detect_and_classify.py --image input.jpg --output result.jpg --conf 0.6
 
 ## 💼 Use Cases
 
-  *🏪 Retail: Count and profile visitors for better service
-  *🏨 Hospitality: Understand guest demographics for targeting
-  *🏙️ Urban Planning: Analyze pedestrian trends at crossings or events
-  *🎥 Security: Use demographic detection for video surveillance
-  *📊 Business Intelligence: Generate real-time demographic statistics
+  * 🏪 Retail: Count and profile visitors for better service
+  * 🏨 Hospitality: Understand guest demographics for targeting
+  * 🏙️ Urban Planning: Analyze pedestrian trends at crossings or events
+  * 🎥 Security: Use demographic detection for video surveillance
+  * 📊 Business Intelligence: Generate real-time demographic statistics
 
 ## 📄 License
 
