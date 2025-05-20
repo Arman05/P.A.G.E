@@ -30,7 +30,7 @@ This project leverages multiple public datasets for both detection and classific
 ### 🧬 Demographic Classification:
 - [UTKFace](https://susanqq.github.io/UTKFace/)
 - [FairFace](https://github.com/joojs/fairface)
-![Crowd Image Sample](Crowd Image Sample.png)
+![Simulation Running](https://github.com/Arman05/P.A.G.E/blob/main/Crowd%20Image%20Sample.png) 
 ---
 
 ## 🛠️ Installation
